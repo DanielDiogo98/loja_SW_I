@@ -2,9 +2,10 @@
     include 'pedaco.php';
 ?>
     <div class="container">
-        <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-            <a href="form_cadastro.php" button" class="btn btn-danger">cadastrar produto</button>
-            <a href="listar.php" type="button" class="btn btn-warning">listar produto</button>
+            <div class='btn-group' role='group' aria-label='Basic mixed styles example'>
+                            <a href='form_cadastro.php' type='button' class='btn btn-danger'>cadastrar produto</a>
+                            <a href='listar.php' type='button' class='btn btn-warning'>listar produto</a>
+            </div>
         </div>
     </div>
 
